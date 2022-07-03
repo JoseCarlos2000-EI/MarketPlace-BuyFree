@@ -1,5 +1,3 @@
-from turtle import mode
-from unicodedata import name
 from django.db import models
 from apps.categoria.models import Categoria
 from apps.empresa.models import Business
